@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+
+#content table, #content th, #content td {
+	border : 1px solid black;
+	text-align: center;
+}
+
+
+#header  h2 {
+	background: aqua;
+	
+}
+
+#content table {
+	background: #D3D3D3;
+}
